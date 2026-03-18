@@ -217,7 +217,7 @@ TCP-сканирования используют флаги протокола 
 
 Ответы сервера позволяют однозначно определить состояние порта
 
-Скриноты:
+Скриншоты:
 <img width="1609" height="650" alt="image" src="https://github.com/user-attachments/assets/f4c2ffee-24e9-4783-aa73-5e2a5e085ff1" />
 <img width="1627" height="763" alt="image" src="https://github.com/user-attachments/assets/0cf82229-9fb2-4b25-a82f-688c6af3b60c" />
 <img width="1617" height="737" alt="image" src="https://github.com/user-attachments/assets/c77a073e-f15d-4bb0-9493-ceeeadb8bddb" />
